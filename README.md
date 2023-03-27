@@ -9,7 +9,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=doshimaf" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doshimaf&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=doshimaf" />
 
 
 <!---
