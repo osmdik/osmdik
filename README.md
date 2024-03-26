@@ -2,8 +2,7 @@
 
 - 👋 Hi, I’m @osmdik
 - 🌱 I’m currently learning Frontend development
-- 💻 Work is WordPress Developer
-- 📫 How to reach me [https://twitter.com/doshimaf](https://twitter.com/doshimaf)
+- 💻 Work is Software Engineer
 - 📚 My hobby is reading books
 
 ## Status
