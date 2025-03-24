@@ -1,9 +1,7 @@
 ## About osmdik
 
 - 👋 Hi, I’m @osmdik
-- 🌱 I’m currently learning Frontend development
 - 💻 Work is Software Engineer
-- 📚 My hobby is reading books
 
 ## Status
 
